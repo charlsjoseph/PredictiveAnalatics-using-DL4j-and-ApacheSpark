@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 28 22:53:07 PST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0158-aedb-c0dd-00001122f0c8 
+on database directory /home/cloudera/workspace/PredictiveAnalatics/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@38d7ffb5 
+Loaded from file:/home/cloudera/.ivy2/cache/org.apache.derby/derby/jars/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_67-b01
+user.dir=/home/cloudera/workspace/PredictiveAnalatics
+os.name=Linux
+os.arch=amd64
+os.version=2.6.32-358.el6.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
